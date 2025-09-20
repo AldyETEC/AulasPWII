@@ -20,7 +20,7 @@ Aula_17_EloquentORM
 
 ## Requirements
 
-- PHP 7.2 or higher
+- PHP 8.2 or higher
 - Composer
 
 ## Installation
