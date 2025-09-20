@@ -1,0 +1,24 @@
+# Composer dependencies
+/vendor/
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Log files
+/logs/
+*.log
+
+# IDE-specific folders and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# PHPUnit cache
+.phpunit.result.cache
